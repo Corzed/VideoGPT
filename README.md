@@ -1,6 +1,6 @@
-# AI Script Generator for YouTube Videos :movie_camera:
+# AI Video Generator for YouTube Videos :movie_camera:
 
-Welcome to the AI Script Generator repository! This innovative project leverages OpenAI's GPT models, Google's text-to-speech, and advanced image generation technologies to automate the creation of YouTube video scripts, complete with voiceovers and relevant images.
+Welcome to the AI Video Generator repository! This innovative project leverages OpenAI's GPT models, Google's text-to-speech, and advanced image generation technologies to automate the creation of YouTube video scripts, complete with voiceovers and relevant images.
 
 ![AI Command Center](https://raw.githubusercontent.com/Corzed/VideoGPT/master/DALL·E%202024-04-18%2020.58.39%20-%20A%20detailed%20image%20of%20a%20futuristic%20AI%20command%20center%20with%20multiple%20screens%20showing%20graphs%2C%20codes%2C%20and%20data%20analytics.%20The%20room%20is%20filled%20with%20advanced%20c.webp)  
 *Futuristic AI command center representing the high-tech environment of this project.*
